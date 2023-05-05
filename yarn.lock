@@ -6986,10 +6986,10 @@ mongodb-connection-string-url@^2.6.0:
     "@types/whatwg-url" "^8.2.1"
     whatwg-url "^11.0.0"
 
-mongodb@^5.2.0:
-  version "5.2.0"
-  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-5.2.0.tgz#58c3688614e793a8e970d797255130db9fd6ddea"
-  integrity sha512-nLgo95eP1acvjBcOdrUV3aqpWwHZCZwhYA2opB8StybbtQL/WoE5pk92qUUfjbKOWcGLYJczTqQbfOQhYtrkKg==
+mongodb@^5.4.0:
+  version "5.4.0"
+  resolved "https://registry.yarnpkg.com/mongodb/-/mongodb-5.4.0.tgz#ce217194b49572f32af5ddd9a1e3ae1282954795"
+  integrity sha512-6GDKgO7WiYUw+ILap143VXfAou06hjxDGgYUZWGnI4hgoZfP3el0G3l69JqJF8SEQbZmC+SN/2a0aWI/aWJoxA==
   dependencies:
     bson "^5.2.0"
     mongodb-connection-string-url "^2.6.0"
